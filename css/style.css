@@ -1,0 +1,17 @@
+:root{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px
+}
+div{
+    transition:color 2s;
+}
+dd{
+    color:lightgray;
+    transition:color 2s;
+}
+.hover:hover{
+    color: red;
+}
+dd:hover{
+    color: black;
+}
